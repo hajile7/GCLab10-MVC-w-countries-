@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\bin\Debug\net8.0\GCLab10 CountryMVC.exe
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\bin\Debug\net8.0\GCLab10 CountryMVC.deps.json
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\bin\Debug\net8.0\GCLab10 CountryMVC.runtimeconfig.json
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\bin\Debug\net8.0\GCLab10 CountryMVC.dll
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\bin\Debug\net8.0\GCLab10 CountryMVC.pdb
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.AssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.dll
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\refint\GCLab10 CountryMVC.dll
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.pdb
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\GCLab10 CountryMVC.genruntimeconfig.cache
+C:\Users\elire\source\repos\GC Labs\GCLab10 CountryMVC\GCLab10 CountryMVC\obj\Debug\net8.0\ref\GCLab10 CountryMVC.dll
